@@ -1,6 +1,7 @@
 # EXP3_CalculoResistorLeds
 
 Eu fiz upload desse trabalho pequeno mais por causa do uso do ```%``` dentro da programação, nunca tinha pensado em usar dessa forma.  
+Em relação ao [modulus x condicional](https://stackoverflow.com/questions/15596318/is-it-better-to-avoid-using-the-mod-operator-when-possible)
 
 Circuito:  
 <img src="https://github.com/Trabalhos-PUC-PR/EXP3_CalculoResistorLeds/blob/main/circuito.png" width="75%" height="75%">
